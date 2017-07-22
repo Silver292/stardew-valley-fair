@@ -1,0 +1,16 @@
+{
+  "name": "stardew-valley-fair-calculator",
+  "description": "A calculator for points awarded during the Stardew Valley Fair",
+  "version": "0.0.0",
+  "homepage": "https://silver292.github.io/stardew-valley-fair/",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "angular-resource": "~1.5.0",
+    "html5-boilerplate": "^5.3.0"
+  }
+}
